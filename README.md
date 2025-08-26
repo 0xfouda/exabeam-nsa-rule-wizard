@@ -1,4 +1,4 @@
-# NSA Rule Wizard
+# Exabeam NSA Rule Wizard
 
 A comprehensive local web-based tool for creating and configuring new-scale analytics rules for Exabeam New-Scale Analytics through a simple wizard in a guided, step-by-step interface to generate properly structured JSON rule configurations.
 
@@ -32,6 +32,7 @@ This tool is **_unoffical experimental_** tool, use with caution!
 1. Open `nsa-rule-wizard.html` in any modern web browser
 2. Follow the step-by-step wizard to configure your rule
 3. Export your completed rule as a JSON file
+4. Import the JSON file into Exabeam NSA
 
 ## File Structure
 
